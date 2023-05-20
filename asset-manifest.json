@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reviews-mini-react-project/static/css/main.69e8e535.css",
+    "main.js": "/reviews-mini-react-project/static/js/main.134d55cc.js",
+    "index.html": "/reviews-mini-react-project/index.html",
+    "main.69e8e535.css.map": "/reviews-mini-react-project/static/css/main.69e8e535.css.map",
+    "main.134d55cc.js.map": "/reviews-mini-react-project/static/js/main.134d55cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e8e535.css",
+    "static/js/main.134d55cc.js"
+  ]
+}
